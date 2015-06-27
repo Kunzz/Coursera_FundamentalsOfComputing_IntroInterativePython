@@ -1,2 +1,4 @@
-# Python_RiceUni_Coursera
-An Introduction to Interactive Programming in Python
+# An Introduction to Interactive Programming in Python
+### Project assignments
+### Kun Zhu
+### 2015-06-27
