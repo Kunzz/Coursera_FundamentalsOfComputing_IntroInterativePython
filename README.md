@@ -2,7 +2,7 @@
 ### Rice University, Coursera
 ### Kun Zhu 2015-06-27
 
-Project assignment 1: Rock-paper-scissors-lizard-Spock </p>
-Project assignment 2: Guess the number </p>
-Project assignment 3: Stop watch </p>
-Project assignment 4: Pong </p>
+Mini Project 1: Rock-paper-scissors-lizard-Spock </p>
+Mini Project 2: Guess the number </p>
+Mini Project 3: Stop watch </p>
+Mini Project 4: Pong </p>
