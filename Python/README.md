@@ -6,3 +6,5 @@ Project assignment 1: Rock-paper-scissors-lizard-Spock </p>
 Project assignment 2: Guess the number </p>
 Project assignment 3: Stop watch </p>
 Project assignment 4: Pong </p>
+Project assignment 5: Memory </p>
+
